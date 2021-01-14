@@ -1,0 +1,5 @@
+.gitattributes linguistic file commands:
+
+Ignore all Html files for examples use the linguist-vendored command:
+
+*.html linguist-vendored
