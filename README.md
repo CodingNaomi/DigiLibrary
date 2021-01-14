@@ -6,7 +6,7 @@ Language(s) used: Html5, CSS3, Javascript, JQuery.
 
 Database/Datastructure: Javascript object.
 
-Front-end: Designed and coded by Jacqueline Medley.
+Front-end: Designed and coded by Naomi Medley.
 
 Back-end: Coded by Naomi Medley and Eduardo de Leon.
 
